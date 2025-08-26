@@ -1,4 +1,4 @@
-module github.com/utrack/gin-csrf
+module github.com/collabchek/gin-csrf
 
 go 1.25.0
 
